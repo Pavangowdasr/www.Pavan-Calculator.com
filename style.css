@@ -54,8 +54,10 @@ body {
   background: #30b1ff;
 }
 .pavan {
-  color:black;
+  color:Ref;
   position: absolute;
   top: 0px;
   left: 10px;
+  font-size:20px;
+  font-weight: 900;
 }
